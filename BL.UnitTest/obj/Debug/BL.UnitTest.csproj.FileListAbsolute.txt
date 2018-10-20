@@ -1,0 +1,6 @@
+E:\LMS\LMS\BL.UnitTest\bin\Debug\BL.UnitTest.dll
+E:\LMS\LMS\BL.UnitTest\bin\Debug\BL.UnitTest.pdb
+E:\LMS\LMS\BL.UnitTest\obj\Debug\BL.UnitTest.csprojAssemblyReference.cache
+E:\LMS\LMS\BL.UnitTest\obj\Debug\BL.UnitTest.csproj.CoreCompileInputs.cache
+E:\LMS\LMS\BL.UnitTest\obj\Debug\BL.UnitTest.dll
+E:\LMS\LMS\BL.UnitTest\obj\Debug\BL.UnitTest.pdb

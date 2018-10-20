@@ -1,0 +1,12 @@
+E:\LMS\LMS\Model\bin\Release\Model.dll.config
+E:\LMS\LMS\Model\bin\Release\Model.dll
+E:\LMS\LMS\Model\bin\Release\Model.pdb
+E:\LMS\LMS\Model\bin\Release\EntityFramework.dll
+E:\LMS\LMS\Model\bin\Release\EntityFramework.SqlServer.dll
+E:\LMS\LMS\Model\bin\Release\EntityFramework.xml
+E:\LMS\LMS\Model\bin\Release\EntityFramework.SqlServer.xml
+E:\LMS\LMS\Model\obj\Release\Model.csprojAssemblyReference.cache
+E:\LMS\LMS\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+E:\LMS\LMS\Model\obj\Release\Model.csproj.CopyComplete
+E:\LMS\LMS\Model\obj\Release\Model.dll
+E:\LMS\LMS\Model\obj\Release\Model.pdb

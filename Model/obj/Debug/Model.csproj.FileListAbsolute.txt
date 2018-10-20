@@ -1,0 +1,12 @@
+E:\LMS\LMS\Model\bin\Debug\Model.dll.config
+E:\LMS\LMS\Model\bin\Debug\Model.dll
+E:\LMS\LMS\Model\bin\Debug\Model.pdb
+E:\LMS\LMS\Model\bin\Debug\EntityFramework.dll
+E:\LMS\LMS\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\LMS\LMS\Model\bin\Debug\EntityFramework.xml
+E:\LMS\LMS\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\LMS\LMS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\LMS\LMS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\LMS\LMS\Model\obj\Debug\Model.csproj.CopyComplete
+E:\LMS\LMS\Model\obj\Debug\Model.dll
+E:\LMS\LMS\Model\obj\Debug\Model.pdb
